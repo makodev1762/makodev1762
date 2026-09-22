@@ -1,28 +1,34 @@
 # ¡Hola! Soy MakoDev1762 🚀
 
-**De la teoría a la construcción: Redescubriendo mi camino en el desarrollo Full Stack.**
+**Ingeniero en Sistemas enfocado en Desarrollo Móvil Android (Kotlin) & QA Testing.**
 
-Durante mucho tiempo tuve los títulos (Ingeniería y Maestría), pero hoy mi enfoque es diferente. Decidí dejar de "coleccionar" diplomas y empecé a construir. A través de The Odin Project consolidé las bases de la web (HTML, CSS, JavaScript), y hoy transformo esa base en resultados reales especializándome fuertemente en **C#**, **.NET** y **ASP.NET** para crear soluciones robustas de backend.
+Tengo 1 año de experiencia en desarrollo de software y gestión de proyectos. Decidí enfocar mi perfil en la construcción de aplicaciones nativas sólidas para Android, combinando mi base en Ingeniería con prácticas estrictas de validación de calidad (QA), desarrollo limpio y consumo de APIs.
 
 ---
 
-### 🛠️ ¿Qué estoy construyendo hoy?
+### 🛠️ ¿En qué estoy trabajando hoy?
 
-* **Arquitectura & Backend:** Desarrollo de lógica de servidor, APIs y sistemas orientados al ecosistema de Microsoft con C# y ASP.NET Core.
-* **Fidelidad Visual & Bases Web:** Traducción de visiones de diseño a código limpio y semántico, respaldado por mi formación inicial en desarrollo web.
-* **Metodología y Orden:** Gestión de proyectos mediante tableros Kanban en Notion, Excalidraw y método Pomodoro, aplicando rigor metodológico a cada línea de código.
-* **Mentalidad de Solución:** Código enfocado en ayudar a negocios emergentes a digitalizarse y resolver problemas reales de negocio.
+* **Desarrollo Android Nativo:** Construcción de interfaces y componentes en Android Studio utilizando **Kotlin** y **Jetpack Compose**.
+* **Integración de Servicios:** Consumo e integración de APIs RESTful en aplicaciones móviles.
+* **Calidad y QA Testing:** Aplicación de pruebas manuales, diseño de casos de prueba y ciclo de vida del software (SDLC) para garantizar entregas estables.
+* **Flujos de Trabajo Ágiles:** Organización con metodologías Kanban, Notion y control de versiones estricto con Git/GitHub.
+
+---
 
 ### 🧰 Tech Stack & Tools
 
-**Core Backend:**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Mobile & Core:**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Foundations & Workflow:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+**Testing, Databases & Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### 📬 Conectemos
+* **LinkedIn:** [Héctor Aquiles López García](https://www.linkedin.com/in/makodev1762/)
